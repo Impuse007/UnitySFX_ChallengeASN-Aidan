@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UnitySFX_ASN-Aidan.unity
+    guid: c363311aecb6b934ca5d8cd364b90197
   m_configObjects: {}
